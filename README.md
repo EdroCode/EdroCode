@@ -44,7 +44,7 @@ AI nutrition platform. Built in 48h at BugsByte 2026 — 🥉 3rd place.
 [**MoodiUM**](https://github.com/EdroCode/Moodium) `Next.js` `TypeScript` `Supabase`  
 Mood, habit, time & goal tracker.
 
-[**RollKeeper**](https://github.com/EdroCode/rollkeeper) `Elixir` `Phoenix LiveView`  
+[**RollKeeper**](https://github.com/EdroCode/rollkeeper) `Next.js` `TypeScript`  
 Single-tab dashboard for TTRPG Dungeon Masters.
 
 [**My Website**](https://github.com/EdroCode/EdroCodeWebsite) `Next.js` `TypeScript`  
