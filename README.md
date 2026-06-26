@@ -48,7 +48,7 @@ Mood, habit, time & goal tracker.
 Single-tab dashboard for TTRPG Dungeon Masters.
 
 [**My Website**](https://github.com/EdroCode/EdroCodeWebsite) `Next.js` `TypeScript`  
-Online yearbook for UMinho's CS student centre. Open source.
+My personal website.
 
 [**CeSIUM Yearbook**](https://github.com/cesium/yearbook) `Elixir` `Phoenix LiveView`  
 Online yearbook for UMinho's CS student centre. Open source.
