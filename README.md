@@ -1,12 +1,13 @@
-# Pedro Coutinho
+### Hey, I'm Edro 👋
 
-CS student @ UMinho. Building tools I actually want to use.
+CS student @ UMinho, building tools I actually want to use.
 
-Open to internships · Summer 2026 · [edrocode.com](https://edrocode.com) · [edr0c0de@protonmail.com](mailto:edr0c0de@protonmail.com)
+🎓 Open to internships
+🌐 [edrocode.com](https://edrocode.com) · ✉️ [edr0c0de@protonmail.com](mailto:edr0c0de@protonmail.com)
 
 ---
 
-## 📦 Stack
+### 📦 Stack
 
 **Languages**
 
@@ -34,35 +35,32 @@ Open to internships · Summer 2026 · [edrocode.com](https://edrocode.com) · [e
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-
 ---
 
-## 🛠 Projects
+### 🛠 Projects
 
-[**Healthium**](https://github.com/TomasLFerreira/healthium) `Vue 3` `FastAPI` `GPT-4o`  
-AI nutrition platform. Built in 48h at BugsByte 2026 — 🥉 3rd place.
+**[Healthium](https://github.com/TomasLFerreira/healthium)** - `Vue 3` `FastAPI` `GPT-4o`
+AI nutrition platform, built in 48h at BugsByte 2026. 🥉 3rd place.
 
-[**MoodiUM**](https://github.com/EdroCode/Moodium) `Next.js` `TypeScript` `Supabase`  
+**[MoodiUM](https://github.com/EdroCode/Moodium)** - `Next.js` `TypeScript` `Supabase`
 Mood, habit, time & goal tracker.
 
-[**RollKeeper**](https://github.com/EdroCode/rollkeeper) `Next.js` `TypeScript`  
+**[RollKeeper](https://github.com/EdroCode/rollkeeper)** - `Next.js` `TypeScript`
 Single-tab dashboard for TTRPG Dungeon Masters.
 
-[**My Website**](https://github.com/EdroCode/EdroCodeWebsite) `Next.js` `TypeScript`  
-My personal website.
-
-[**CeSIUM Yearbook**](https://github.com/cesium/yearbook) `Elixir` `Phoenix LiveView`  
+**[CeSIUM Yearbook](https://github.com/cesium/yearbook)** - `Elixir` `Phoenix LiveView`
 Online yearbook for UMinho's CS student centre. Open source.
 
-[**CanSat**](https://github.com/EdroCode/CanSat) `Python` `Raspberry Pi`  
+**[CanSat](https://github.com/EdroCode/CanSat)** - `Python` `Raspberry Pi`
 Flight software and sensor integration for a high-altitude weather balloon.
 
-[**StellarForge**](https://github.com/EdroCode/StellarForge) `Godot` `GDScript`  
+**[StellarForge](https://github.com/EdroCode/StellarForge)** - `Godot` `GDScript`
 Constellation-based dynamic skill trees.
 
-[**HeroLab**](https://github.com/EdroCode/HeroLab) `Godot` `GDScript`  
+**[HeroLab](https://github.com/EdroCode/HeroLab)** - `Godot` `GDScript`
 Interactive live RPG dashboard.
 
+**[My Website](https://github.com/EdroCode/EdroCodeWebsite)** - `Next.js` `TypeScript`
+My personal website.
 
 ---
-
